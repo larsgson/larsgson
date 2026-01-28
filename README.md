@@ -2,7 +2,7 @@
 
 **Senior Software Developer** based in Switzerland with 40+ years of experience building software across 4 countries.
 
-📄 [Read more about me](https://qombi.netlify.app/about-me/)
+📄 [Read more about me](https://qombi.com/about-me/)
 
 ## About Me
 
