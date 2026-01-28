@@ -1,6 +1,8 @@
 # Hi, I'm Lars Gunnarsson 👋
 
-**Senior Software Developer** based in Switzerland with 40+ years of experience building software across 5 countries.
+**Senior Software Developer** based in Switzerland with 40+ years of experience building software across 4 countries.
+
+📄 [Read more about me](https://qombi.netlify.app/about-me/)
 
 ## About Me
 
